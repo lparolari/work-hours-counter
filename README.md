@@ -1,3 +1,7 @@
+# WARNING!
+**This project is deprecated.**
+
+See the project implementation at https://github.com/lparolari/work-pay-calculator.
 
 # work-hours-counter
 This sheet can be used to pin down the work hours with the automatic calculation of some cost and the total profit.
